@@ -1,4 +1,4 @@
-const baseUrl = "https://alekseyvakht-mesto-db.nomoredomainsicu.ru/";
+const baseUrl = "https://alekseyvakht-mesto-db.nomoredomainsicu.ru";
 
 function checkResponse(res) {
     if (res.ok) {
