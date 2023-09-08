@@ -9,8 +9,8 @@
 **Ссылка на Github:** https://github.com/AlekseyVakht/react-mesto-api-full-gha
 
 ## Ссылки на проект
-**IP:**  158.160.117.33  
+**IP**  158.160.117.33  
 
-**Frontend:**  https://alekseyvakht-mesto.nomoredomainsicu.ru  
+**Frontend**  https://alekseyvakht-mesto.nomoredomainsicu.ru  
 
-**Backend:**  https://alekseyvakht-mesto-db.nomoredomainsicu.ru  
+**Backend**  https://alekseyvakht-mesto-db.nomoredomainsicu.ru  
