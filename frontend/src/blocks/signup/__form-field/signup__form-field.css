@@ -1,0 +1,8 @@
+.signup__form-field {
+  position: relative;
+  margin: 0 0 30px;
+}
+
+.signup__form-field:last-of-type {
+  margin: 0;
+}

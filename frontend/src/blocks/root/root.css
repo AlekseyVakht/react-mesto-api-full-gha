@@ -1,0 +1,14 @@
+.root {
+  font-family: 'Inter', sans-serif;
+  min-width: 320px;
+  margin: 0 auto;
+  background-color: #000000;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+body {
+  background-color: black;
+}
