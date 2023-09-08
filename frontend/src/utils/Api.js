@@ -120,7 +120,7 @@ class Api {
 }
 
 export const api = new Api({
-  baseUrl: 'alekseyvakht-mesto-db.nomoredomainsicu.ru',
+  baseUrl: 'https://alekseyvakht-mesto-db.nomoredomainsicu.ru/',
   headers: {
     'Content-Type': 'application/json',
   }
