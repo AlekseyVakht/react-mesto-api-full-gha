@@ -1,6 +1,6 @@
 const httpConstants = require('http2').constants;
-const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
 const mongoose = require('mongoose');
 const { NotFoundError } = require('../errors/NotFoundError');
 const { BadRequestError } = require('../errors/BadRequestError');
